@@ -144,5 +144,8 @@ header  {
   padding: 1em;
 }
 
+#albums .info {
+  background: rgba(0, 0, 0, 0.5);
+}
 
 
