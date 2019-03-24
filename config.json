@@ -9,6 +9,6 @@
   "embed-exif": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "All images © 2003-2019 Neil Lawrence",
+  "footer": "All images © 2003-2019 <a href="mailto:neil@ox1digital.co.uk">Neil Lawrence</a>",
   "usage-stats": false
 }
