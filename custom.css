@@ -6,6 +6,10 @@ header  {
   padding: 1em;
 }
 
+h1 a  {
+  color: #fff;
+}
+
 #albums .info {
   background: rgba(0, 0, 0, 0.5);
 }
