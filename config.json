@@ -6,6 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
+  "embed-exif": true,
   "theme": "cards",
   "theme-style": "./custom.css",
   "footer": "All images © 2003-2019 Neil Lawrence",
