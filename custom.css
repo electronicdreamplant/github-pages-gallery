@@ -14,3 +14,7 @@ h1 a  {
   background: rgba(0, 0, 0, 0.5);
 }
 
+.lg-outer .lg-image {
+  max-width: 80%;
+  max-height: 80%;
+}
