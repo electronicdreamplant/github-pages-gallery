@@ -3,7 +3,7 @@
   "output": "./build_output",
   "title": "Neil Lawrence Photography",
   "sort-albums-by": "start-date",
-  "sort-media-by": "start-date",
+  "sort-media-by": "date",
   "download-photos": "copy",
   "cleanup": true,
   "embed-exif": true,
